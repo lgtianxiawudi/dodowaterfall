@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">瀑布流demo</string>
+    <string name="refresh">刷新</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="loading">加载中...</string>
+    <string name="loadmore">加载更多...</string>
+    <string name="temp_date">2012-3-19 13:45</string>
+
+</resources>
